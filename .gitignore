@@ -1,0 +1,5 @@
+# Local C++ build outputs
+build/
+problem[0-9]*
+!problem[0-9]*.cpp
+*.out
